@@ -1,4 +1,3 @@
-# Compatible versions for Streamlit sharing (Python 3.13 environment)
 transformers==4.34.1
 datasets==2.14.5
 evaluate==0.4.0
