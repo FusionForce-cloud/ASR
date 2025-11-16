@@ -1,7 +1,7 @@
 transformers==4.34.1
 datasets==2.14.5
 evaluate==0.4.0
-torch==2.9.0
+torch==2.1.2
 librosa==0.10.0
-SoundFile==0.12.1
+soundfile==0.12.1
 streamlit==1.25.0
